@@ -1,0 +1,251 @@
+ENDescription
+
+"<p>A wide range of Single-Board-Computers (SBC), Computer-On-Modules (COM) and motherboards for industrial applications. Design-in support and customization service for hardware, software and firmware. Provided with comprehensive BSPs and customization service for embedded operating systems</p>"
+
+"<p style=""text-align: justify;"">computer on modules (COM), also known as system on modules (SOM), consist of highly integrated embedded boards based on industry open standards. They are used together with a carrier-board which is generally customized according to customer needs and integrates all the specific interfaces and connectors required by the applications. They are the best choice to implement highly modular embedded applications. The product range is composed by solutions based on COM Express, COM-HPC, SMARC, Qseven industrial open standards and by proprieatry form factors with x86 architecture.</p>"
+
+"<p style=""text-align: justify;"">Embedded modules based on RISC architecture. Developed for applications requiring the features of ARM processors with main attention to low power consumption, extended temperature range and long term availability</p>"
+
+"<p style=""text-align: justify;"">Single-Board-Computers (SBC) are compact CPU boards offering all the main PC-type interfaces directly on board. Our SBC range is composed by highly compact form factors like 2.5"", PICO-ITX, PC/104 and 3.5"" up to the wider form factors like EPIC and 5.25""</p>"
+
+"<p style=""text-align: justify;"">A complete range of industrial motherboards with ATX, Micro ATX and Mini ITX form factors. In comparison with commercial solutions, industrial motherboards are based on selected components with higher quality and lifecycle to guarantee higher reliability and availability over time</p>"
+
+"<p style=""text-align: justify;"">Industrial CPU boards for insertion on passive backplanes. Full Size PICMG and half size form factors for rackmount and compact chassis. They offer ISA, PCI and PCI Express expandibilty according to the different standards.</p>"
+
+<p>Add-on cards and modules</p>
+
+"<p style=""text-align: justify;"">Qseven is a compact (70x70 mm), low power and legacy free standard of <a href=""https://www.contradata.it/en/computer-on-modules""><strong>computer on modules</strong></a> (COM) for embedded applications. It offers fast serial interfaces and a thermal concept optimized for fanless and mobile applications.</p>"
+
+"<p style=""text-align: justify;"">COM Express is a highly scalable and compact standard issued by the PICMG consortium. It has been developed to offer the maximum level of connectivity according to the natural evolution of x86 processors. The pin-out Type 2 is one of the main sub-standard provided by the consortium and is available in two different types of form factor, Compact (95x95 mm) and Basic (125x95 mm). The pinout type 2 represents the first edition of the COM Express standard for <a href=""https://www.contradata.it/en/computer-on-modules""><strong>computer on modules</strong></a> and is not recommended for new designs. <br /><br />For new projects we suggest to see the <a href=""https://www.contradata.it/en/com-express-type-6-modules""><strong>COM Express Type 6</strong></a> section on our website</p>"
+
+"<p style=""text-align: justify;"">COM Express Type 6 is a further extension of the COM Express standard and offers additional connection lines for PCI Express. It also implements the most recent video interfaces such as DisplayPort and HDMI. It represents the most scalable solution of the <a href=""https://www.contradata.it/en/computer-on-modules""><strong>computer on module</strong></a> product range.</p>"
+
+"<p style=""text-align: justify;"">Contradata system family is composed by industrial PC for 19"" rackmount applications and compact fanless embedded box PC. All models can be configured according to customers' specific needs. We can provide fully taylorized industrial PC, including BIOS customizations.</p> <p style=""text-align: justify;""> </p>"
+
+"<p style=""text-align: justify;"">19"" rackmount <a href=""https://www.contradata.it/en/industrial-pc-and-embedded-systems""><strong>industrial PC</strong></a> and wallmount compact chassis to be configured on customers specific needs. Built with passive backplanes up to 20 expansion slots or with industrial motherboard up to 6 expansion slots. Wide range of CPU cards, from the low power Intel® Atom up the the high performance Intel® Core i3/i5/i7 family. RAID configurations and redund power supply on request<br /><br />Every single rack or wallmount PC has to be configured according to the specific customer needs and assembled within our EPA (Electronic Protected Area). <a href=""https://www.contradata.it/en/contactus""><strong>Contact us</strong></a> for personalized configurations.</p>"
+
+"<p style=""text-align: justify;"">Our Box PC are an important part of our line of <strong><a href=""https://www.contradata.it/en/industrial-pc-and-embedded-pc"">Industrial PC and Embedded PC</a></strong> for various applications. From the low power platforms up to the high-end multicore solutions with fanless architecture. They can be configured with SSD and other flash memory types to ensure an high level of reliability in applications characterized by shock and vibration and in harsh environments.</p>"
+
+<p>A complete range of Touch Panel PC and Monitors for industrial applications.</p>
+
+"<p style=""text-align: justify;"">Korenix networking products include <strong><a href=""https://www.contradata.it/en/industrial-ethernet-switches"">industrial switches</a></strong>, <strong><a href=""https://www.contradata.it/en/industrial-poe-switch"">Poe switches</a></strong>, <strong><a href=""https://www.contradata.it/en/ethernet-media-converters"">media converters</a></strong>, <strong><a href=""https://www.contradata.it/en/fieldbus-gateways"">fieldbus gateways</a></strong>, <a href=""https://www.contradata.it/en/wireless-cellular""><strong>wireless devices</strong></a>, <strong><a href=""https://www.contradata.it/en/ethernet-remote-io"">ethernet I/O modules</a></strong> and <strong><a href=""https://www.contradata.it/en/serial-device-server"">serial device servers</a></strong>.</p>"
+
+<p>A wide range of industrial memory solutions including flash storage devices and DRAM modules for embedded applications</p>
+
+"<p>Boards and modules for PC-based data acquisition. The product range includes solutions for analog and digital acquisition, digital I/O cards and modules and remote I/O with serial interface</p>"
+
+"<p>Touch panel PC for industrial applications. Panel mount, wall mount, rackmount and desktop applications. LCD displays from 4.3"" to 21"". Available with IP64 and IP65 front panel protection or IP65 / IP67 full protection. Wide range of x86 processors. Many fanless versions available.</p>"
+
+"<p>Touchscreen monitors for industrial applications. LCD display from 6.5"" to 24"" with resistive or capacitive type touchscreen. IP64 or IP65 front panel protection. Panel mount, wall mount, rackmount and desktop installations.</p>"
+
+NULL
+
+"<p style=""text-align: justify;"">Korenix JetNet series is composed by managed and unmanaged industrial ethernet switches up to 28 ports and represents an important part of our <a href=""https://www.contradata.it/en/industrial-ethernet""><strong>industrial ethernet</strong></a> products. Gigabit and fiber versions available. Layer 2 and Layer 3 support and advanced redundancy features. DIN rail mount and 19"" rackmount solutions.<br /><br /></p>"
+
+NULL
+
+NULL
+
+NULL
+
+"<p>Innodisk industrial flash memory solutions are based on four different tecnologies, MLC, 3D TLC, SLC and iSLC and available in a big variety of form factor and interfaces. Extended temperature versions are also available. The whole range is developed to enhance advanced features for embedded and industrial applications.</p>"
+
+"<p>Industrial DRAM modules for embedded applications. DDR, DDR2, DDR3, DDR4 standards. DIMM or SO-DIMM form factors. Extended temperature versions and conformal coating services available.</p>"
+
+"<p>Adlink cards and modules for PC-based data acquisition cover a variety of functions including analog input, load cell sensor measurement, analog output, digital I/O, relay outputs, and timer/counters. Available in ISA, PCI and PCI Express card size form factor or as DIN rail mount modules for distributed data acquisition.</p>"
+
+NULL
+
+NULL
+
+"<p><strong>COM Express</strong> is an open industry standard for <strong><a href=""https://www.contradata.it/en/computer-on-modules"">computer on modules</a></strong>, regulated by the PICMG consortium. The standard defines a series of ""small form factors"" for CPU modules intended for various types of industrial applications and various interconnection systems to the carrier board which can be standard or customized by the user, respecting the criteria set out in the various design guides, provided for each COM Express substandard. There are currently 3 main extensions: type 6, type 7 and type 10.</p> <p> </p>"
+
+"<p>The Type 10 pinout is one of the COM Express versions and it's used with the Mini form factor (84 x 55 m) offering an high level of connectivity combined with a reduced footprint which make it one of the most compact standard for <strong><a href=""https://www.contradata.it/en/computer-on-modules"">computer on modules</a></strong></p>"
+
+"<p style=""text-align: justify;"">SMARC is a <strong><a href=""https://www.contradata.it/en/computer-on-modules"">computer on module</a></strong> standard regulated by the SGET consortium perfectly positioned between the Qseven and the COM Express standards. SMARC offers a richer set of interfaces than Qseven but less scalability and flexibility than COM Express.</p>"
+
+"<p style=""text-align: justify;"">ETX and XTX standards are the first generation of <a href=""https://www.contradata.it/en/computer-on-modules""><strong>computer on modules</strong></a>. They are cross compatible with the only exception of the ISA bus. The XTX standard is in fact the natural evolution of the ETX standard, replacing the ISA bus with newer interfaces like PCI Express, SATA and LPC</p>"
+
+"<p style=""text-align: justify;"">Mini modules based on x86 ultra low power DM&amp;P Vortex86 processors. Provided with extended operating temperature range -40°+85°C and long term availability up to 10 years. ICOP SoM are mini <a href=""https://www.contradata.it/en/computer-on-modules""><strong>computers on modules</strong></a>, perfect for applications requiring a rich I/O set and low power consumption.</p>"
+
+"<p>Evalutation Kits, carrier-boards and accessories for <strong><a href=""https://www.contradata.it/en/computer-on-modules"">Computer on Modules</a></strong> based on Qseven, SMARC and COM Express standards</p>"
+
+"<p style=""text-align: justify;"">Embedded modules based on ARM architecture. Different CPU families including NXP i.MX 6, i.MX 8, i.MX 8X, i.MX 8M Mini and i.MX 8M Nano. Form factor based on Qseven and SMARC industry open standard. Our ARM modules represents an important part of our line of <strong><a href=""https://www.contradata.it/en/risc-based-modules"">RISC Embedded Modules</a></strong></p>"
+
+<p>Embedded modules based on Power Architecture with NXP processors. They are developed to satisfy the needs of I/O intensive applications in mission-critical environments</p>
+
+"<p>carrier boards and other accessories for the development of applications based on <strong><a href=""https://www.contradata.it/en/risc-based-modules"">RISC Embedded Modules</a></strong></p>"
+
+"<p style=""text-align: justify;"">PICO ITX <a href=""https://www.contradata.it/en/single-board-computers""><strong>single-board-computers</strong></a> are a perfect solution for applications requiring a small footprint. The PICO ITX compact standard, only 100 x 72 mm, offers a rich IO set including GbE LAN, COM RS-232/422/485, USB, GPIO and multiple display interfaces. The range includes PICO ITX single board with Intel Atom, Celeron and Pentium or AMD SoC. 2.5 SBCs, included in the line, are based on low power DMP Vortex86 processors</p> <p style=""text-align: justify;""> </p>"
+
+"<p style=""text-align: justify;"">The 3.5"" is one of the most popular <strong><a href=""https://www.contradata.it/en/single-board-computers"">Single-Board-Computer</a></strong> form factor in the world for embedded and industrial applications. Its compact form factor in fact allows its integration with mid-range processors like the recent Intel® Atom, Intel® Core-i and AMD® G Series</p>"
+
+"<p style=""text-align: justify;"">The PC/104 form factor (90x96 mm) is a standard for <a href=""https://www.contradata.it/en/single-board-computers""><strong>Single Board Computers</strong></a> issued by the homonymous consortium in the early 90s. It's still widely used today in embedded and industrial applications thanks to its compact form factor, robustness of the expansion connector and availability in the market of related expansion modules. PCI-104 and PC/104+ are further evolutions of the standard that integrate the PCI Bus in alternative or in addition to the ISA bus</p>"
+
+"<p style=""text-align: justify;"">EPIC is a compact and standard form factor (165x115 mm) for <a href=""https://www.contradata.it/en/single-board-computers""><strong>Single Board Computers</strong></a> that can integrate mid to high range processors. It is developed with a robust on-board PCI-104 or PC/104+ expansion to accomodate different types of add-on cards.</p>"
+
+"<p style=""text-align: justify;""><a href=""https://www.contradata.it/en/industrial-motherboards""><strong>Industrial Motherboards</strong></a> with standard ATX form factor (244x305 mm) designed for industrial applications with criterias of reliability and long term availability.</p>"
+
+"<p style=""text-align: justify;""><a href=""https://www.contradata.it/en/industrial-motherboards""><strong>Industrial motherboards</strong></a> with reduced Micro ATX form factor (244x244 mm). They can be accomodated in compact chassis offering up to 4 PCI and PCI Express slots.</p>"
+
+"<p style=""text-align: justify;""><a href=""https://www.contradata.it/en/industrial-motherboards""><strong>Industrial motherboards</strong></a> Mini ITX form factor (170x170 mm). The mini ITX form factor is one of the most popular in the world and is used both in the consumer and industrial field thanks to the dimensions that allow to create compact motherboards capable of integrating the whole family of Intel processors starting from the low power platforms Atom, Celeron and Pentium up to socket type solutions with Intel Core i3, i5, i7 and Xeon. Within our range we offer both mini ITX cards and low profile thin mini ITX cards. All our mini ITX boards offer industrial features and interfaces including dual LAN, COM RS-232/422/485, USB, GPIO etc. Our range is completed by our industrial-class <a href=""https://www.contradata.it/en/wallmount-chassis#/specFilters=117m!#-!592""><strong>mini ITX cases</strong></a>.</p>"
+
+"<p style=""text-align: justify;"">Full size PICMG 1.0 it's a standard for <a href=""https://www.contradata.it/en/industrial-slot-boards""><strong>industrial slot boards</strong></a> issued by the homonymous consortium. They offer ISA and PCI expandibilty transfering signals from the board connector to the backplane</p>"
+
+"<p style=""text-align: justify;"">Full size PICMG 1.3 cards are an evolution of the PICMG 1.0 standard for <a href=""https://www.contradata.it/en/industrial-slot-boards""><strong>industrial slot boards</strong></a>. They offer PCI and PCI Express expandabilty transfering signals from the board connector to the backplane.</p>"
+
+"<p style=""text-align: justify;"">ISA <a href=""https://www.contradata.it/en/industrial-slot-boards""><strong>industrial slot boards</strong></a> are based on a half-size form factor offering ISA expandibility and transfer signals from the board connector to the backplane. The reduced form factor allows their implementation in compact chassis requiring ISA expandability</p>"
+
+"<p style=""text-align: justify;"">PCISA <a href=""https://www.contradata.it/en/industrial-slot-boards""><strong>industrial slot boards</strong></a> are based on a half-size form factor that offer ISA and PCI expandibility transfering signals from the board connector to the backplane. The reduced form factor allows their implementation in compact chassis requiring ISA and PCI expandability</p>"
+
+"<p style=""text-align: justify;"">PICOe <a href=""https://www.contradata.it/en/industrial-slot-boards""><strong>industrial slot boards</strong></a> are based on a half-size form factor that offer PCI and PCI Express expandibility transfering signals from the board connector to the backplane. The reduced form factor allows their implementation in compact chassis requiring PCI and PCI Express expandability</p>"
+
+"<p>Passive backplanes for full size and half size <a href=""https://www.contradata.it/en/industrial-slot-boards""><strong>industrial slot boards</strong></a>. They offer up to 20 expansion slots ISA, PCI and PCI Express</p>"
+
+"<p style=""text-align: justify;"">A complete range of add-on modules based on Mini PCIe and M.2 form factors. These modules allow to add RAID and storage functionalities to single-board-computers and embedded systems</p>"
+
+"<p>Add-on solutions for industrial communications. Ethernet, PoE, CAN bus, Multiserial RS-232/422/485, USB and Digital I/O</p>"
+
+<p>Mini PCI and Mini PCIe Wi-Fi modules for industrial applications</p>
+
+<p>Video &amp; Audio cards and modules</p>
+
+<p>Display / LCD conversion cards and modules</p>
+
+<p>Trimble GPS chipsets and modules for OEM timing and localization applications </p>
+
+"<p style=""text-align: justify;"">Our chassis for 19"" rackmount installations are an important part of our line of <a href=""https://www.contradata.it/en/rackmount-and-wallmount-pc""><strong>Rackmount &amp; Wallmount PC</strong></a>. The line of Rack chassis varies from 1U to 5U in height. Every single chassy is configurable according to customers' specific needs with passive backplane or industrial motherboard. Up to 20 expansion slots ISA, PCI and PCI Express</p>"
+
+"<p style=""text-align: justify;"">Our compact chassis for wallmount and desktop applications are an important part of our line of <a href=""https://www.contradata.it/en/rackmount-and-wallmount-pc""><strong>Rackmount &amp; Wallmount PC</strong></a>. To be configured with passive backplane or industrial Mini ITX motherboard. The line offers up to 10 expansion slots ISA, PCI and PCI Express</p>"
+
+"<p style=""text-align: justify;"">Power supplies for <a href=""https://www.contradata.it/en/rackmount-and-wallmount-pc""><strong>Rackmount &amp; Wallmount PC</strong></a>. Designed and developed to ensure long MTBF for 24/7 applications in harsh environments. Available with different form factors: PS/2, 1U, 2U and open frame. Medical and redundant versions available.</p>"
+
+"<p>A selection of all our fanless <strong><a href=""https://www.contradata.it/en/embedded-pc"">Embedded PC</a></strong></p>"
+
+"<p style=""text-align: justify;""><a href=""https://www.contradata.it/en/embedded-pc""><strong>Embedded PC</strong></a> based on low power Intel® Atom and Core i ULT series. These systems are perfect for general purpose applications offering high level of connectivity including COM, USB, Digital I/O, Ethernet, wireless communications and multiple video outputs</p>"
+
+"<p style=""text-align: justify;""><strong><a href=""https://www.contradata.it/en/embedded-pc"">Embedded PC</a></strong> based on high performance multicore platforms up to the Intel® Core i3/i5/i7 and Xeon family. These systems are perfect for CPU intensive applications such as medical computing, machine vision, surveillance and edge computing.</p>"
+
+"<p style=""text-align: justify;""><strong><a href=""https://www.contradata.it/en/embedded-pc"">Embedded PC</a></strong> with up to 3 PCI and PCI Express expansion slots. These systems are the perfect solution in applications requiring small footprint while keeping space to integrate additional I/O boards. Available from the Intel® Atom up to the Intel® Core i7 processors</p>"
+
+"<p><a href=""https://www.contradata.it/en/embedded-pc""><strong>Embedded PC</strong></a> for applications in extended temperature range up to -40 +70°C. To be configured with extended temperature SSD or other types of flash memory.</p>"
+
+"<p style=""text-align: justify;""><a href=""https://www.contradata.it/en/embedded-pc""><strong>Embedded PC</strong></a> for in-vehicle applications. Certified solutions for Railways <strong>(EN-50155)</strong> and Automotive <strong>(E-mark)</strong> applications.</p>"
+
+"<p><a href=""https://www.contradata.it/en/embedded-pc""><strong>Embedded PC</strong></a> with advanced ethernet connectivity. These solutions offer up to 12 Gigabit Ethernet and up to 8 Power-over-Ethernet ports with PoE+ support</p>"
+
+"<p><a href=""https://www.contradata.it/en/industrial-touch-panel-pc""><strong>Touch Panel PC</strong></a> for light industrial applications. Thin design with IP64 front panel protection. LCD displays from 5.7"" to 21.5"" with resistive or capacitive type touchscreen. Scalable processors from the Intel® Atom up to the Intel® Core i3/i5/i7 family.</p>"
+
+"<p><a href=""https://www.contradata.it/en/industrial-touch-panel-pc""><strong>Touch Panel PC</strong></a> for heavy industrial applications. Aluminium front bezel with IP65 front panel protection. LCD displays from 6.5"" to 24"" with resistive or capacitive touchscreen. Scalable processors from the Intel® Atom up to the Intel® Core i3/i5/i7 family.</p>"
+
+"<p style=""text-align: justify;"">Our modular <a href=""https://www.contradata.it/en/industrial-touch-panel-pc""><strong>Touch Panel PC</strong></a> are based on the CDS patent. CDS is a standardized All-in-one system in two major parts, the display and the system. Those are interdependent and can be operated together or separately. The advanced electronic design integrates the display, touch and computing signal in an embedded circuit board, which provides the most reliable display computing operation. Moreover, the unique mechanical design unifies connections, form factor and fixation to ensure seamless hardware integration. These technologies together offer possibilities for changing the display size of a system, upgrading the computing performance and the I/O connectivity depending entirely on the requirements of the application.</p>"
+
+"<p><a href=""https://www.contradata.it/en/industrial-touch-panel-pc""><strong>Touch Panel PC</strong></a> without front bezel for integration in customized chassis. </p>"
+
+"<p style=""text-align: justify;""><a href=""https://www.contradata.it/en/industrial-touch-panel-pc""><strong>Touch Panel PC</strong></a> for rugged applications. LCD displays from 12"" to 24"". Certified solutions for automotive, maritime and critical factory environments.</p>"
+
+NULL
+
+"<p>Industrial workstation with up to 14 expansion slots. Aluminium front panel with membrane keypad, IP64 protected. Based on passive backplane architecture with slot board to be customized on customers specific needs.</p>"
+
+"<p style=""text-align: justify;""><a href=""https://www.contradata.it/en/industrial-monitors""><strong>Industrial touch screen monitors</strong></a> with IP65 front panel protection. Panel mount, wall mount, rackmount and desktop installations. Display from 6.5"" to 24"" with resistive or capacitive touchscreen. Sunlight readable and extended temperature versions available.</p>"
+
+"<p style=""text-align: justify;"">Open frame <a href=""https://www.contradata.it/en/industrial-monitors""><strong>industrial touch screen monitors</strong></a> for integration in custom chassis. LCD display from 12"" to 19"" with resistive or capacitive touchscreen. Sunlight readable versions available. Custom solutions for outdoor and anti-vandal applications.</p>"
+
+"<p style=""text-align: justify;""><a href=""https://www.contradata.it/en/industrial-monitors""><strong>Industrial touch screen monitors</strong></a> with modular architecture and IP65 protected aluminum front bezel. Wide range of display formats from 8.4 ""to 24"" with sunligh readable versions and with optional optical bonding</p>"
+
+"<p style=""text-align: justify;""><span style=""color: #808080;"">Our rugged tablets have been developed to operate in harsh environments where it is necessary to use a robust device that is protected from possible impacts, from elements such as water and dust and which offers adequate battery life. The rugged tablet PCs distributed by us have been developed by MSI and are oriented towards the markets of industrial automation, logistics and transportation.</span></p> <h2 style=""text-align: left;""><br /><span style=""color: #808080;"">Rugged and semi rugged tablet PC</span></h2> <p style=""text-align: justify;""><span style=""color: #808080;"">The N0Q1 model is a semi rugged tablet PC capable of withstanding drops from 4 feet / 120 cm (MIL-STD-810G). It is extremely thin and light, only 760 grams, and offers full IP54 protection from water and dust. It offers a long battery life, up to 8.7 hours and is ideal for industrial applications where lightness and ease of use are a key variable. It is based on the Braswell Intel Celeron N3010 processor, which offers an excellent ratio between costs, performance and consumption. The N0T1 model is instead a rugged tablet PC being also resistant to falls from 4 feet / 120 cm (MIL-STD-810G) and offering in addition an integral IP65 protection from water and dust. It is an ideal solution for applications requiring a greater degree of robustness. It has a long battery life, up to 9 hours, and is an ideal solution for rugged applications. It is based on the Apollo Lake Intel Pentium N4200 processor. Both the N0Q1 and N0T1 models are supplied with the Windows 10 IoT Enterprise operating system pre-installed on board.</span></p>"
+
+"<p style=""text-align: justify;"">DIN rail mount <a href=""https://www.contradata.it/en/industrial-ethernet-switches""><strong>industrial switches</strong></a>. Managed and unmanaged versions from 5 to 20 ports. Gigabit and fiber versions available. Optional extended temperature range</p>"
+
+"<p style=""text-align: justify;"">19"" rackmount managed <a href=""https://www.contradata.it/en/industrial-ethernet-switches""><strong>industrial switches</strong></a>. Layer 2 and Layer 3 support. 10G Ethernet and fiber versions available.</p>"
+
+"<p style=""text-align: justify;"">Managed and unmanaged Power Over Ethernet (PoE) switches with from 5 to 28 ports represent an important part of our <a href=""https://www.contradata.it/en/industrial-ethernet""><strong>industrial ethernet</strong></a> product line. Our poe switches for industrial applications cover every application need, from the unmanaged 4-port poe switch to the 24-port managed poe switch for 19"" rack mounting. Our industrial poe switches offer offer high port density, with compact solutions for DIN rail we arrive up to 16-port poe switches with power budget of up to 480W. All our poe ethernet switches have been developed for industrial applications and support operating temperatures up to -40° + 75° C. They support IEEE 802.3af, 802.3at and 802.3bt standards with powers up to 90 watts per port. The range also includes poe switches with optical fiber to support long distance communications and redundant poe switches.</p>"
+
+NULL
+
+<p>Korenix JetI/O series is made up of Ethernet I/O modules for DIN rail mounting with digital I/O over ethernet and inputs for thermocouples with resolutions of up to 16 bit. They are Ethernet I/O modules with Modbus/TCP and OPC server support</p>
+
+<p>Korenix JetCon series is composed by ethernet media converters for industrial applications. The range includes:</p> <ul> <li>fiber and ethernet to fiber media converters</li> <li>serial RS-232/422/485 to fiber media converters</li> <li>RS-232 to RS-422/485 media converters</li> <li>USB to serial media converters</li> <li>VDSL2 to ethernet media converters</li> <li>SFP modules / SFP fiber transceivers</li> </ul>
+
+<p>Korenix JetPort series is composed by serial device servers for intelligent conversion of RS-232/422/485 interfaces over ethernet. </p>
+
+"<p>Korenix JetWave series is composed by Wireless and Cellular solutions including access point, repeaters, gateways and routers specifically developped for industrial applications.</p>"
+
+"<p style=""text-align: justify;"">Innodisk industrial CompactFlash and CFast provide high-capacity solid-state <strong><a href=""https://www.contradata.it/en/industrial-flash-memories"">industrial flash memories</a></strong> compatible with the PCMCIA* ATA and SATA standards. Built to replace traditional rotating disk drives, CompactFlash and CFast are embedded solid-state data storage devices, designed for mobile and industrial applications.</p>"
+
+"<p style=""text-align: justify;"">2.5"" and 1.8"" industrial SSD with IDE or SATA interface represent an important part of the range of <strong><a href=""https://www.contradata.it/en/industrial-flash-memories"">industrial flash memories</a></strong> of Innodisk. 3D TLC, MLC, SLC and iSLC technologies. Commercial or extended temperature range. Built for industrial, embedded, enterprise and military applications.</p>"
+
+"<p style=""text-align: justify;"">The mSATA is a flash memory device with low-profile interface connector. It enables Serial ATA to be effectively integrated into a small form-factor, roughly the size of a business card. It can be implemented in compact embedded systems. mSATA are <a href=""https://www.contradata.it/en/industrial-flash-memories""><strong>industrial flash memories</strong></a> perfect for embedded applications.</p>"
+
+"<p style=""text-align: justify;"">Disk-on-Modules with IDE or SATA interface. SLC, MLC and iSLC technologies. Commercial or extended temperature range. Low profile versions for ultra-compact systems. DOM are <a href=""https://www.contradata.it/en/industrial-flash-memories""><strong>industrial flash memories</strong></a> for embedded applications</p>"
+
+"<p style=""text-align: justify;"">ServerDOMs are <a href=""https://www.contradata.it/en/industrial-flash-memories""><strong>industrial flash memories</strong></a> to be plugged in the SATA connector and offer adequate performances for server applications.</p>"
+
+"<p style=""text-align: justify;"">Innodisk SD and microSD cards are <a href=""https://www.contradata.it/en/industrial-flash-memories""><strong>industrial flash memories</strong></a> based on SLC, MLC and iSLC architectures. These cards are industrial grade devices delivering outstanding performance and excellent endurance and reliability, especially compared to other cards used in the mobile market</p>"
+
+"<p style=""text-align: justify;"">The Innodisk SATA Slim is compliant with the JEDEC MO-297 standard form factor and ATA protocol. It does not require drivers and can be configured as a boot device or a data storage device. It is also suitable for portable/hand-held devices, thin clients, and industrial applications that require the effective reduction of operation system boot time and power consumption. SATA Slim are <a href=""https://www.contradata.it/en/industrial-flash-memories""><strong>industrial flash memories</strong></a> with a reduced footprint in comparison with the 2.5"" form factor.</p>"
+
+"<p style=""text-align: justify;"">Innodisk industrial-grade USB storage solutions are built with SLC NAND flash and feature an attractive small form factor. They provides high-capacity flash memory storage while delivering faster data transmission with high reliability. These kind of <a href=""https://www.contradata.it/en/industrial-flash-memories""><strong>industrial flash memories</strong></a> are divided in two groups: external USB type and internal pin header USB type.</p>"
+
+"<p><strong><a href=""https://www.contradata.it/en/industrial-flash-memories"">Industrial Flash memories</a></strong> with BGA form factor, JEDEC MO-267 standard</p>"
+
+"<p><a href=""https://www.contradata.it/en/industrial-flash-memories""><strong>Industrial flash memories</strong></a> with M.2 form factor and SATA or PCI Express NVMe interface</p>"
+
+"<p>DRAM DDR4 e DDR4L. 2666Mhz, 2400Mhz, 2133Mhz. DIMM and SO-DIMM form factors. Extended temperature range and ECC versions available</p>"
+
+"<p>DRAM DDR3 and DDR3L. 1866MHz, 1600Mhz, 1333Mhz, 1066Mhz. DIMM and SO-DIMM form factors. Extended temperature range and ECC versions available.</p>"
+
+"<p>DRAM DDR2 800Mhz, 667Mhz, 533Mhz, 400Mhz. DIMM and SO-DIMM form factors. Extended temperature range and ECC versions available.</p>"
+
+"<p>DRAM DDR 800Mhz, 400Mhz, 333Mhz, 266Mhz. DIMM and SO-DIMM form factors. Extended temperature range and ECC versions available.</p>"
+
+"<p>SDRAM 133Mhz, 100Mhz. DIMM and SO-DIMM form factors. Extended temperature range and ECC versions available.</p>"
+
+"<p>Adlink DAQ cards are available in various form factors including ISA, PCI and PCI Express and combine analog input/output, Digital I/O and timer/counter functionalities</p>"
+
+"<p>Digital I/O, Relay and Timer Counters cards with ISA, PC/104, PCI and PCI Express form factor</p>"
+
+<p>High performances Digital I/O cards with PCI and PCI Express form factor</p>
+
+<p>Remote I/O &amp; data acquisition modules with RS-485 interface</p>
+
+<p>DAQ and Digital I/O modules with USB interface. Power and data acquisition via USB cable with plug-and-play connectivity</p>
+
+<p>Termination and Signal Conditioning boards</p>
+
+"<p>Videocapture cards with PCI, PCI-104, PCI Express and MiniPCIe form factor. Up to 8 channels for video/audio capture. Analog and digital video inputs.</p>"
+
+"<p>The Korenix JetLink series is composed by gateways and ethernet switches with fieldbus support for Modbus RTU/TCP, EtherNet/IP and Profinet</p>"
+
+"<p>iEi Integration offers a wide range of products and solutions enabling neural models to be implemented in industrial applications. The product portfolio includes VPU, FPGA accelerator cards and ready-to-run systems for inference in AI applications based on the Intel OpenVino toolkit.</p>"
+
+"<p>Our range of hardware acceleration cards for AI inference applications is composed by various form factors including PCI Express, Mini PCI Express and M.2. The cards are available with various performance levels, from 1 to 8 Intel Movidius Myriad X MA2485 VPU chips up to solutions based on the Intel Arria 10 FPGA.</p>"
+
+"<p>Embedded Systems for deep learning inference in AI industrial applications. Solutions based on VPU, GPU and FPGA</p>"
+
+"<p><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""/images/uploaded/CATEGORIE/COM-HPC-logo.jpg"" alt=""COM-HPC logo"" width=""50%"" /></p> <p style=""text-align: justify;""><strong> </strong></p> <p style=""text-align: justify;""><strong>COM-HPC</strong> is a new industry open standard for Computer on Modules. The COM-HPC standard is oriented to high performance edge applications and is regulated by the PICMG consortium which issues its application guides. PCI Express Gen5 support up to 65 lines and Ethernet connectivity up to 8x 25+ GbE are some of the key features of the COM-HPC standard. Being oriented to edge and server applications, the standard includes two families of modules: <strong>COM-HPC/Server</strong> and <strong>COM-HPC/Client</strong>.</p> <p style=""text-align: justify;""> </p> <table style=""width: 100%;""> <tbody> <tr> <td style=""width: 50%; text-align: left; padding-left: 30px;""><strong>COM-HPC/Server</strong></td> <td style=""width: 50%; text-align: left; padding-left: 30px;""><strong>COM-HPC/Client</strong></td> </tr> <tr> <td> <ul> <li style=""text-align: left;"">Up to 65 PCI Express Gen 5 Lanes</li> <li style=""text-align: left;"">Up to 8x 25 Gb Ethernet</li> <li style=""text-align: left;"">Up to 2x USB 4</li> <li style=""text-align: left;"">Headless</li> <li style=""text-align: left;"">Size D: 160x160 mm</li> <li style=""text-align: left;"">Size E: 160x200 mm<br /><br /><br /></li> </ul> </td> <td> <ul> <li style=""text-align: left;"">Up to 49 PCI Express Gen5 Lanes</li> <li style=""text-align: left;"">Up to 2x 25 Gb Ethernet</li> <li style=""text-align: left;"">Up to 4x USB 4</li> <li style=""text-align: left;"">Up to 4x Video Interfaces</li> <li style=""text-align: left;"">Size A: 95x120 mm</li> <li style=""text-align: left;"">Size B: 120x120 mm</li> <li style=""text-align: left;"">Size C: 120x160 mm<br /> </li> </ul> </td> </tr> </tbody> </table> <p style=""text-align: justify;""><br /><br /></p>"
+
+"<p>Software tools for industrial flash memories, SSDs and DRAM modules</p>"
+
+NULL
+
+NULL
+
+NULL
+
+NULL
+
+NULL
+
+NULL
+
+<p>Contradata offers a complete range of industrial servers: from artificial intelligence training servers to industrial-class data storage solutions</p>
+
+"<p style=""text-align: justify;"">This series of Sunlight Readable <a href=""https://www.contradata.it/en/industrial-touch-panel-pc""><strong>Touch Panel PCs</strong></a> is available with displays from 8 ""to 19"", projected capacitive touch screens, Intel® Atom, Intel® Pentium and Intel® Core™ processors. All models of the CS-100 series offer high brightness, up to 1600 nits and are dedicated to outdoor industrial applications.</p>"
+
+"<p>A complete range of sunlight readable industrial monitors. High brightness solutions up to 1600 cd/m2, diplays ranging from 8.4 ""to 21.5"" and IP65 front panel protection.</p>"
+
+NULL
+
+"<p style=""text-align: justify;""><strong>CFexpress</strong> <a href=""https://www.contradata.it/en/industrial-flash-memories""><strong>industrial flash memories</strong></a> are compliant with CFexpress 1.0 type B specification. Supporting PCIe Gen III x2 interface (NVM 1.3), provide excellent performances and industrial-grade endurance thanks to industrial NAND Flash. With sophisticated error detection and correction (ECC) functions, CFexpress memories can ensure full End-to-end Data Path Protection that secures the data transmission between host system and NAND Flash.</p>"

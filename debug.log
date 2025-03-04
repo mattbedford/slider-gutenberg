@@ -1,0 +1,81 @@
+[03-Feb-2025 16:13:18 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must contain a namespace prefix. Example: my-plugin/my-custom-block-type Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in /var/www/html/wp-includes/functions.php on line 6114
+[03-Feb-2025 16:13:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-includes/functions.php:6114) in /var/www/html/wp-admin/includes/misc.php on line 1438
+[03-Feb-2025 16:13:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-includes/functions.php:6114) in /var/www/html/wp-includes/functions.php on line 7137
+[03-Feb-2025 16:13:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-includes/functions.php:6114) in /var/www/html/wp-admin/admin-header.php on line 9
+[03-Feb-2025 16:14:18 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must contain a namespace prefix. Example: my-plugin/my-custom-block-type Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in /var/www/html/wp-includes/functions.php on line 6114
+[03-Feb-2025 16:14:26 UTC] PHP Notice:  Function WP_Block_Type_Registry::register was called <strong>incorrectly</strong>. Block type names must contain a namespace prefix. Example: my-plugin/my-custom-block-type Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.0.0.) in /var/www/html/wp-includes/functions.php on line 6114
+[03-Feb-2025 16:14:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-includes/functions.php:6114) in /var/www/html/wp-admin/includes/misc.php on line 1438
+[03-Feb-2025 16:14:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-includes/functions.php:6114) in /var/www/html/wp-includes/functions.php on line 7137
+[03-Feb-2025 16:14:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-includes/functions.php:6114) in /var/www/html/wp-admin/admin-header.php on line 9
+[03-Feb-2025 16:16:53 UTC] PHP Warning:  Undefined array key "heading" in /var/www/html/wp-content/plugins/blok/build/render.php on line 10
+[03-Feb-2025 16:16:53 UTC] PHP Warning:  Undefined array key "body" in /var/www/html/wp-content/plugins/blok/build/render.php on line 11
+[03-Feb-2025 16:16:53 UTC] PHP Warning:  Undefined array key "image_id" in /var/www/html/wp-content/plugins/blok/build/render.php on line 12
+[03-Feb-2025 16:16:53 UTC] PHP Warning:  Undefined array key "opensInNewTab" in /var/www/html/wp-content/plugins/blok/build/render.php on line 27
+[03-Feb-2025 16:16:53 UTC] PHP Warning:  Undefined array key "url" in /var/www/html/wp-content/plugins/blok/build/render.php on line 27
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2188
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2203
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2212
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2790
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2800
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2809
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2826
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2853
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2857
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2861
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2865
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2901
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "heading" in /var/www/html/wp-content/plugins/blok/build/render.php on line 10
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "body" in /var/www/html/wp-content/plugins/blok/build/render.php on line 11
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "image_id" in /var/www/html/wp-content/plugins/blok/build/render.php on line 12
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2188
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2203
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2212
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2790
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2800
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2809
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2826
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2853
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2857
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2861
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2865
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2901
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "opensInNewTab" in /var/www/html/wp-content/plugins/blok/build/render.php on line 27
+[03-Feb-2025 16:18:53 UTC] PHP Warning:  Undefined array key "url" in /var/www/html/wp-content/plugins/blok/build/render.php on line 27
+[18-Feb-2025 12:59:22 UTC] PHP Notice:  Function rest_validate_value_from_schema was called <strong>incorrectly</strong>. The "type" schema keyword for layout_variant is required. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.5.0.) in /var/www/html/wp-includes/functions.php on line 6114
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2188
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2203
+[18-Feb-2025 12:59:22 UTC] PHP Notice:  Function rest_validate_value_from_schema was called <strong>incorrectly</strong>. The "type" schema keyword for layout_variant can only be one of the built-in types: array, object, string, number, integer, boolean, and null. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.5.0.) in /var/www/html/wp-includes/functions.php on line 6114
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2212
+[18-Feb-2025 12:59:22 UTC] PHP Notice:  Function rest_sanitize_value_from_schema was called <strong>incorrectly</strong>. The "type" schema keyword for layout_variant is required. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.5.0.) in /var/www/html/wp-includes/functions.php on line 6114
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2790
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2800
+[18-Feb-2025 12:59:22 UTC] PHP Notice:  Function rest_sanitize_value_from_schema was called <strong>incorrectly</strong>. The "type" schema keyword for layout_variant can only be one of the built-in types: array, object, string, number, integer, boolean, and null. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.5.0.) in /var/www/html/wp-includes/functions.php on line 6114
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2809
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2826
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2853
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2857
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2861
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2865
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2901
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "heading" in /var/www/html/wp-content/plugins/blok/build/render.php on line 10
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "body" in /var/www/html/wp-content/plugins/blok/build/render.php on line 11
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "image_id" in /var/www/html/wp-content/plugins/blok/build/render.php on line 12
+[18-Feb-2025 12:59:22 UTC] PHP Notice:  Function rest_validate_value_from_schema was called <strong>incorrectly</strong>. The "type" schema keyword for layout_variant is required. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.5.0.) in /var/www/html/wp-includes/functions.php on line 6114
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2188
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2203
+[18-Feb-2025 12:59:22 UTC] PHP Notice:  Function rest_validate_value_from_schema was called <strong>incorrectly</strong>. The "type" schema keyword for layout_variant can only be one of the built-in types: array, object, string, number, integer, boolean, and null. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.5.0.) in /var/www/html/wp-includes/functions.php on line 6114
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2212
+[18-Feb-2025 12:59:22 UTC] PHP Notice:  Function rest_sanitize_value_from_schema was called <strong>incorrectly</strong>. The "type" schema keyword for layout_variant is required. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.5.0.) in /var/www/html/wp-includes/functions.php on line 6114
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2790
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2800
+[18-Feb-2025 12:59:22 UTC] PHP Notice:  Function rest_sanitize_value_from_schema was called <strong>incorrectly</strong>. The "type" schema keyword for layout_variant can only be one of the built-in types: array, object, string, number, integer, boolean, and null. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.5.0.) in /var/www/html/wp-includes/functions.php on line 6114
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2809
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2826
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2853
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2857
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2861
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2865
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "type" in /var/www/html/wp-includes/rest-api.php on line 2901
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "opensInNewTab" in /var/www/html/wp-content/plugins/blok/build/render.php on line 27
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Undefined array key "url" in /var/www/html/wp-content/plugins/blok/build/render.php on line 27
+[18-Feb-2025 12:59:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/wp-includes/functions.php:6114) in /var/www/html/wp-admin/admin-header.php on line 9

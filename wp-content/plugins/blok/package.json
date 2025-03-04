@@ -1,0 +1,18 @@
+{
+  "name": "blok",
+  "version": "0.1.0",
+  "description": "N-th attempt to get this damn thing to fly",
+  "author": "Matt Bedford",
+  "license": "GPL-2.0-or-later",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "wp-scripts build --webpack-copy-php",
+    "start": "wp-scripts start --webpack-copy-php"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^26.5.0"
+  },
+  "dependencies": {
+    "@wordpress/icons": "^9.26.0"
+  }
+}
