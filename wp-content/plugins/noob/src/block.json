@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "matt/noob-block",
+  "version": "1.0.0",
+  "title": "Noob block",
+  "category": "block",
+  "icon": "shortcode",
+  "description": "Container block.",
+  "supports": { "html": false },
+  "editorScript": "file:./index.js",
+  "render": "file:./../render.php"
+}
